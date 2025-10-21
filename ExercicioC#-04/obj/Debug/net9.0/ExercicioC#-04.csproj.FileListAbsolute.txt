@@ -1,0 +1,14 @@
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\bin\Debug\net9.0\ExercicioC#-04.exe
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\bin\Debug\net9.0\ExercicioC#-04.deps.json
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\bin\Debug\net9.0\ExercicioC#-04.runtimeconfig.json
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\bin\Debug\net9.0\ExercicioC#-04.dll
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\bin\Debug\net9.0\ExercicioC#-04.pdb
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.AssemblyInfoInputs.cache
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.AssemblyInfo.cs
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.csproj.CoreCompileInputs.cache
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.dll
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\refint\ExercicioC#-04.dll
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.pdb
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ExercicioC#-04.genruntimeconfig.cache
+C:\Users\43180121823\Desktop\Back-end\ExercicioC#-04\obj\Debug\net9.0\ref\ExercicioC#-04.dll
