@@ -1,0 +1,15 @@
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.AssemblyInfoInputs.cache
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.AssemblyInfo.cs
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.csproj.CoreCompileInputs.cache
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.sourcelink.json
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\bin\Debug\net9.0\AgenciaT.exe
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\bin\Debug\net9.0\AgenciaT.deps.json
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\bin\Debug\net9.0\AgenciaT.runtimeconfig.json
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\bin\Debug\net9.0\AgenciaT.dll
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\bin\Debug\net9.0\AgenciaT.pdb
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.dll
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\refint\AgenciaT.dll
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.pdb
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\AgenciaT.genruntimeconfig.cache
+C:\Users\43180121823\Desktop\Back-end\AgenciaT\obj\Debug\net9.0\ref\AgenciaT.dll
