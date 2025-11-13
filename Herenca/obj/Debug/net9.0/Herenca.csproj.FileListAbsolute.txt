@@ -1,0 +1,15 @@
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.AssemblyInfoInputs.cache
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.AssemblyInfo.cs
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.csproj.CoreCompileInputs.cache
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.sourcelink.json
+C:\Users\43180121823\Desktop\Back-end\Herenca\bin\Debug\net9.0\Herenca.exe
+C:\Users\43180121823\Desktop\Back-end\Herenca\bin\Debug\net9.0\Herenca.deps.json
+C:\Users\43180121823\Desktop\Back-end\Herenca\bin\Debug\net9.0\Herenca.runtimeconfig.json
+C:\Users\43180121823\Desktop\Back-end\Herenca\bin\Debug\net9.0\Herenca.dll
+C:\Users\43180121823\Desktop\Back-end\Herenca\bin\Debug\net9.0\Herenca.pdb
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.dll
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\refint\Herenca.dll
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.pdb
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\Herenca.genruntimeconfig.cache
+C:\Users\43180121823\Desktop\Back-end\Herenca\obj\Debug\net9.0\ref\Herenca.dll
