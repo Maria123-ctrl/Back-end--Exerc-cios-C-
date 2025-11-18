@@ -7,6 +7,7 @@ namespace Abstracao
 {
     public class ContaCorrente : ContaBancaria
     {
+         private double Taxa = 0.03;
         public override void Depositar(float valor)
         {
            if(valor <= 0)
@@ -16,17 +17,22 @@ namespace Abstracao
             }
             Saldo += valor;
         }
-
+       
         public override void Sacar(float valor)
         {
+            double totalComTaxa =  valor + (valor * Taxa);
+            
+            if(valor <= 0 || totalComTaxa >= Saldo)
+            {
+                Console.WriteLine($"O valor do saque deve positivo e ter dinheiro suficiente para o saque (Conta Corrente)");
+                return;
+            }
+           
+            // Console.WriteLine($"Saldo {Saldo}");
             Saldo -= valor;
-            Console.WriteLine($"Saldo {Saldo}");
         }
-        public void CalcularSaldo()
-        {
-            Saldo += 0.02f * Saldo;
-            Console.WriteLine($"Saldo {Saldo}");
-
-        }
+       
+        // Saldo -= totalComTaxa;
+         
     }
 }

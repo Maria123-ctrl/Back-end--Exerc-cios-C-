@@ -7,6 +7,7 @@ namespace Abstracao
 {
     public class ContaPoupanca : ContaBancaria
     {
+        private double Taxa = 0.05;//5% de taxa 
         public override void Depositar(float valor)
         {
 
@@ -20,8 +21,18 @@ namespace Abstracao
 
         public override void Sacar(float valor)
         {
-            Saldo -= valor;
-            Console.WriteLine($"Saldo {Saldo}");
+                        //valor solicitado + taxa de 1%
+            double totalComTaxa = valor + (valor * Taxa);
+
+
+
+            if( valor <= 0 || totalComTaxa >= Saldo)
+            {
+                Console.WriteLine($"O valor do saque deve positivo e ter dinheiro suficiente para o saque");
+                return;// para a execução do método por aqui
+            }
+            Saldo -= totalComTaxa;
+    
         }
         public void CalcularSaldo()
         {
