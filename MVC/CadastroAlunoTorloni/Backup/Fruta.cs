@@ -7,13 +7,13 @@ namespace CadastroAlunoTorloni.Models
 {
     public class Fruta
     {
-        public int Id;
+        public int Id {get; set;}
 
-        public string Nome = "";
+        public string Nome {get; set;}
 
-        public string Cor = "";
+        public string Cor {get; set;}
 
-        public string Categoria = "";
+        public string Categoria {get; set;}
 
 
     }

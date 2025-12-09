@@ -1,0 +1,43 @@
+   @model DevConnect.Models.TabelaUsuario
+
+   <link rel="stylesheet" href="~/css/cadastro.css">
+
+   <script defer>
+        const usuarioNovoCadastrado = "@ViewBag.UsuarioNovoCadastrado";
+
+        if(usuarioNovoCadastrado == "Nao cadastrado"){
+            alert("Usuário não cadastrado! Tente novamente 😔");
+        }
+   </script>
+   
+   <main>
+        <div>
+            <form id="cadastro" class="estilo-cadastro" enctype="multipart/form-data" asp-action="Index" asp-controller="Usuario">
+                <img src="../images/dev-conn7.svg" alt="">
+                <p>Cadastre-se para a unidade exclusiva de desenvolvedores(as).</p>
+
+                
+                
+                <div> <input type="text" asp-for="NomeCompleto" placeholder="Nome Completo"></div>
+                <div> <input type="text" asp-for="NomeUsuario" placeholder="Nome De Usuário"></div>
+                <div><input type="email" asp-for="Email" placeholder="Email"></div>
+                <div> <input type="password" asp-for="Senha" placeholder="Senha"></div>
+
+                <div class="botao-azul">
+                    <label for="botao-file">Faça upload da sua imagem aqui...</label>
+                    <input type="file" id="botao-file" class="file" name="imagem">
+                </div>
+
+                <button type="submit" class="botao-roxo">Cadastre-se</button>
+            
+                <p>Ao se cadastrar, você concorda com nossos Termos, Políticas de Dados e Política de Cookies.</p>
+
+                 
+            </form>
+            <section id="secao-cadastro" class="estilo-cadastro">
+                <p>Tem uma conta? <a asp-controller="Home" asp-action="Index">Conecte-se</a></p>
+            </section>
+           
+    
+        </div>
+    </main>

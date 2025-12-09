@@ -1,7 +1,15 @@
+using CadastroAlunoTorloni.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews();//controllers
+// builder.Services.AddDbContext<CadastroAlunoTorloniContext>(Options =>
+// Options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
+
+builder.Services.AddDbContext<CadastroAlunoTorloniContext>();//models
+
 
 var app = builder.Build();
 
