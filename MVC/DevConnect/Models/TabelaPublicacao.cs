@@ -15,11 +15,11 @@ public partial class TabelaPublicacao
 
     [Column("descricao")]
     [StringLength(255)]
-    public string? Descricao { get; set; }
+    public string Descricao { get; set; } = null!;
 
     [Column("imagem_url")]
     [StringLength(255)]
-    public string ImagemUrl { get; set; } = null!;
+    public string? ImagemUrl { get; set; }
 
     [Column("data_publi")]
     public DateOnly? DataPubli { get; set; }

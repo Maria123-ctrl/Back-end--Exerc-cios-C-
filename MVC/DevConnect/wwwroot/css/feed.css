@@ -82,7 +82,7 @@ main{
     background-color: var(--cor-cinza-claro);
     resize: none;
     padding: 10px;
-    color: var(--cor-preto);
+    color: var(--cor-preto);    
     font-size: var(--tamanho-font-sm);
     outline-color: var(--cor-azul-claro1);
 }
@@ -109,7 +109,7 @@ main{
 #cadastro-publi > form > footer {
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    /* align-items: center; */
     gap: 20px;
     flex-wrap: wrap;
     margin-top: 30px;
